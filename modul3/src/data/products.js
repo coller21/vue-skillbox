@@ -1,0 +1,92 @@
+export default [
+  {
+    id: 0,
+    title: 'TKV-1201-SM16',
+    price: 3250,
+    image: 'img/mygoods/img1.jpg',
+  },
+  {
+    id: 1,
+    title: 'TKV-1201-SM16',
+    price: 3250,
+    image: 'img/mygoods/img2.jpg',
+  },
+  {
+    id: 2,
+    title: 'TKV-1201-SM16',
+    price: 3250,
+    image: '/img/mygoods/img3.jpg',
+  },
+  {
+    id: 3,
+    title: 'TKV-1201-SM16',
+    price: 3250,
+    image: '/img/mygoods/img4.jpg',
+  },
+  {
+    id: 4,
+    title: 'TKV-1406-SP15',
+    price: 3250,
+    image: '/img/mygoods/img5.jpg',
+  },
+  {
+    id: 5,
+    title: 'TKV-1406-SP15',
+    price: 3250,
+    image: '/img/mygoods/img6.jpg',
+  },
+  {
+    id: 6,
+    title: 'TKV-1406-SP15',
+    price: 3250,
+    image: '/img/mygoods/img7.jpg',
+  },
+  {
+    id: 7,
+    title: 'TKV-1406-SP15PNK',
+    price: 3250,
+    image: '/img/mygoods/img8.jpg',
+  },
+  {
+    id: 8,
+    title: 'TKV-2202-2.0',
+    price: 3250,
+    image: '/img/mygoods/img9.jpg',
+  },
+  {
+    id: 9,
+    title: 'TKV-2202-2.0',
+    price: 3250,
+    image: '/img/mygoods/img10.jpg',
+  },
+  {
+    id: 10,
+    title: 'TKV-12011-SM17',
+    price: 3250,
+    image: '/img/mygoods/img11.jpg',
+  },
+  {
+    id: 11,
+    title: 'TKV-12012-SM17',
+    price: 3250,
+    image: '/img/mygoods/img12.jpg',
+  },
+  {
+    id: 12,
+    title: '',
+    price: 3250,
+    image: '/img/mygoods/img13.jpg',
+  },
+  {
+    id: 13,
+    title: 'TKV-12013-SM17',
+    price: 3250,
+    image: '/img/mygoods/img14.jpg',
+  },
+  {
+    id: 14,
+    title: 'TKV-12016-SM17',
+    price: 3250,
+    image: '/img/mygoods/img15.jpg',
+  },
+];
